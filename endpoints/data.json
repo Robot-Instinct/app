@@ -1,0 +1,25 @@
+{
+    "showCase":[
+      "https://robot-instinct.github.io/app/images/showcase/ri_0.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_1.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_02.png",
+      "https://robot-instinct.github.io/app/images/showcase/ri_3.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_4.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_5.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_6.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_7.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_8.jpeg",
+      "https://robot-instinct.github.io/app/images/showcase/ri_9.jpeg"
+    ],
+    "videos":[
+        {
+            "id":0,
+            "url":"https://robot-instinct.github.io/app/videos/tom_and_jerry.mp4",
+            "thumbnail":"https://robot-instinct.github.io/app/images/tmubmnails/tom_and_jerry.png",
+            "title":"Tom and Jerry",
+            "description":"A funny animation classic of Tom & Jerry.",
+            "duration":"21 mins & 37 secs",
+            "author":"Robot Instinct Fitness"
+        }
+    ]
+}
