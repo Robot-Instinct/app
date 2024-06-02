@@ -14,11 +14,29 @@
     "videos":[
         {
             "id":0,
-            "url":"https://robot-instinct.github.io/app/videos/tom_and_jerry.mp4",
-            "thumbnail":"https://robot-instinct.github.io/app/images/thumbnails/tom_and_jerry.png",
-            "title":"Tom and Jerry",
-            "description":"A funny animation classic of Tom & Jerry.",
-            "duration":"21 mins & 37 secs",
+            "url":"https://robot-instinct.github.io/app/videos/leg_extension.mp4",
+            "thumbnail":"https://robot-instinct.github.io/app/images/thumbnails/ri_0.jpeg",
+            "title":"Leg Extension Demo",
+            "description":"Demonstration of the leg extension exercise, designed to strengthen your quadriceps",
+            "duration":"20 secs",
+            "author":"Robot Instinct Fitness"
+        },
+        {
+            "id":1,
+            "url":"https://robot-instinct.github.io/app/videos/seated_hamstring_curl.mp4",
+            "thumbnail":"https://robot-instinct.github.io/app/images/thumbnails/ri_0.jpeg",
+            "title":"Seated Hamstring Curl Demo",
+            "description":"Seated hamstring curls ideal for targeting and building your hamstrings effectively.",
+            "duration":"10 secs",
+            "author":"Robot Instinct Fitness"
+        },
+        {
+            "id":2,
+            "url":"https://robot-instinct.github.io/app/videos/sumo_leg_press.mp4",
+            "thumbnail":"https://robot-instinct.github.io/app/images/thumbnails/ri_0.jpeg",
+            "title":"Sumo Leg Pres Demo",
+            "description":"Discover the correct technique for the sumo leg press exercise.",
+            "duration":"15 secs",
             "author":"Robot Instinct Fitness"
         }
     ]
